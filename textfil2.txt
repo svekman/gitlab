@@ -1,1 +1,11 @@
-en relevantare textfil
+commit d10d81f0c429e1b8b22e44db03570ee57a0f6b60 (HEAD -> main, origin/sidogren, sidogren)
+Author: Sven Ekman <ekmansven@gmail.com>
+Date:   Thu Nov 5 15:25:45 2020 +0100
+
+    ny fil tillagd
+
+commit 50ae51efa143392794b11dcf9712b75d758cf7a1 (origin/main)
+Author: Sven Ekman <ekmansven@gmail.com>
+Date:   Thu Nov 5 15:21:25 2020 +0100
+
+    uppstart
